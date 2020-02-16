@@ -1,0 +1,7 @@
+* Thespian Echo
+
+This is an example application using the [[https://thespianpy.com/][Thespian]] library. It implements a distributed echo application using Thespian actors. 
+
+There's a blog post with some notes around actor systems here: https://sabaini.at/peterlog/posts/2020/Feb/16/thespian-a-python-actor-system/
+
+
